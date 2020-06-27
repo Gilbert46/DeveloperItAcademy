@@ -1,1 +1,4 @@
-Hello World, this is new file from document-write.
+Hello World, this is
+ file has been modified 
+for new branch.
+only document-write.
